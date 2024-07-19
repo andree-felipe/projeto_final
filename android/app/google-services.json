@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76072453337",
+    "project_id": "projeto-final-asimov-69208",
+    "storage_bucket": "projeto-final-asimov-69208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76072453337:android:78bcfd5a24d431009deac8",
+        "android_client_info": {
+          "package_name": "br.com.construe.stock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE-_ZWBIU0hUE6fX1D59-hOOIbqlJnPoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
