@@ -38,7 +38,7 @@ class _LoginPageState extends State<LoginPage> {
         child: Column(
           children: [
             Container(
-              margin: EdgeInsets.only(top: 170),
+              margin: EdgeInsets.only(top: 150),
               height: 110,
               width: 110,
               child: SvgPicture.asset(
@@ -46,7 +46,7 @@ class _LoginPageState extends State<LoginPage> {
                 fit: BoxFit.cover,
               ),
             ),
-            SizedBox(height: 20),
+            SizedBox(height: 90),
             Center(
               child: LoginForm(onSubmit: _handleSubmit,),
             ),
